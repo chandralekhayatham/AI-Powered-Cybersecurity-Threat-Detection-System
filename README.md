@@ -100,5 +100,4 @@ Save these in a `screenshots/` folder if you want to feature them in the reposit
 ## Limitations and next improvements
 Synthetic patterns can be easier to separate than real-world traffic. Next steps could include an approved public dataset, stronger leakage checks, cross-validation, calibration, drift analysis, explainability, and an analyst feedback loop. Any public dataset must be used according to its license and documented clearly.
 
-## Portfolio description
-Built an offline ML-based cybersecurity threat detection demo using Python, Pandas, scikit-learn, and Flask. Generated synthetic network telemetry, trained and evaluated a Random Forest classifier, and exposed predictions through a local dashboard and JSON API.
+
