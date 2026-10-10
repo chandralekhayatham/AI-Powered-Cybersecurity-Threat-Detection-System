@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+models/*.joblib
+outputs/*.png
+outputs/metrics.json
+outputs/predictions.csv
+.DS_Store
