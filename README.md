@@ -72,12 +72,28 @@ After training, see `outputs/metrics.json`, `outputs/confusion_matrix.png`, and 
 python -m pytest -q
 ```
 
-## Screenshots to capture
-1. Dashboard overview showing record counts and distribution
-2. A prediction marked for review
-3. `outputs/confusion_matrix.png`
-4. `outputs/feature_importance.png`
-5. Training terminal with metrics
+## 📸 Project Screenshots
+
+### 1. Dashboard Overview
+
+![AI Cybersecurity Dashboard](screenshots/dashboard.png)
+
+### 2. Threat Detection Result
+
+![Threat Detection Result](screenshots/threat-detection.png)
+
+### 3. Dataset Analysis
+
+![Dataset Analysis](screenshots/dataset-analysis.png)
+
+### 4. Automated Test Results
+
+![Automated Tests Passed](screenshots/tests-passed.png)
+
+---
+
+**Note:** This project uses synthetic network telemetry for educational demonstration. Predictions are illustrative and should not be interpreted as proof of a real-world security incident.
+
 
 Save these in a `screenshots/` folder if you want to feature them in the repository.
 
